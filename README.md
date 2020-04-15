@@ -9,7 +9,7 @@
 
 
 # demo
-抢鲜体验请点击这里[demo](http://htmlpreview.github.io/?https://github.com/ct-adc/adc-addressmap/blob/master/view/index.html)
+抢鲜体验请点击这里[demo](https://wx-wangxiang.github.io/view/addressmap.html)
 
 # API
 ## Props
